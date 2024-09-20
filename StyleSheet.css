@@ -99,8 +99,8 @@
   h2,
   h3,
   legend {
-    font-family: 'Matemasie-Regular' , 'Comic Sans MS', c;
-  }
+    font-family: "Matemasie", sans-serif;
+      }
   
   /** Lætur myndir aldrei taka meira pláss en foreldri skilgreinir **/
   img {
